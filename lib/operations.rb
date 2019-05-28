@@ -16,7 +16,7 @@ def not_safe?(speed)
 	binding.pry
 end
 	
-puts not_safe?(30)
+# puts not_safe?(30)
 # puts not_safe?(55)
 # puts not_safe?(95)
 
