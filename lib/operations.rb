@@ -17,5 +17,5 @@ end
 	
 # puts not_safe?(30)
 # puts not_safe?(55)
-# puts not_safe?(95)
+puts not_safe?(95)
 
